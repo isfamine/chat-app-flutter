@@ -22,4 +22,5 @@ npm start
 - `ctrl+shift+p`
 - `Pub: Get Packages`
 
-6. Open `main.dart` and `Debug`
+6. Create the following tables in `RethinkDB`: `dart helpers/generate.dart`
+7. Open `main.dart` and `Debug`
